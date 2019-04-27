@@ -43,7 +43,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -96,7 +96,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -124,7 +124,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -152,7 +152,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -180,7 +180,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -208,7 +208,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -236,7 +236,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -264,7 +264,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -292,7 +292,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -320,7 +320,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -348,7 +348,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -376,7 +376,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -404,7 +404,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -432,7 +432,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -463,7 +463,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -491,7 +491,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -536,7 +536,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -564,7 +564,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -592,7 +592,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -644,7 +644,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -672,7 +672,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -762,7 +762,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -790,7 +790,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -818,7 +818,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -846,7 +846,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -874,7 +874,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -903,7 +903,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -931,7 +931,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -959,7 +959,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1012,7 +1012,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1040,7 +1040,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1068,7 +1068,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1096,7 +1096,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1155,7 +1155,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
@@ -1183,7 +1183,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
-                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$",
+                "^com\\.googlecode\\.iterm2$","^com\\.termius\\.mac$","^com\\.teamviewer\\.TeamViewer$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
